@@ -533,7 +533,7 @@ msg_test_DEWP2 <- sprintf("R2 for test data: %.3f", Rsq_test_DEWP)
 print(msg_train_DEWP2)
 print(msg_test_DEWP2)
 
-summary(PRSA_data_train$DEWP_grp)
+summary(PRSA_data_train$DEWPㄴ_grp)
 ㄴ
 ```
 
